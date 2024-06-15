@@ -11,7 +11,7 @@
   --button-color-hover: #e80c0bcc;
   --accent-color:  232, 12, 11;
   --accent-color-hover: rgba(var(--accent-color), 0.8);
-  --link-color: rgb(232, 12, 11);
+  --link-color: rgb(0, 255, 0);
   --link-color-hover: rgba(232, 12, 11,.8);
   --label-text-color: #fff;
 
